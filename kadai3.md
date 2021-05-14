@@ -1,4 +1,5 @@
-```@startuml
+```uml
+@startuml
 
 ユーザー -> Webサーバー : 検索(商品名)
 Webサーバー -> DBサーバー : 検索処理(商品名)
